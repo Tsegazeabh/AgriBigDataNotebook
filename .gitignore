@@ -1,0 +1,7 @@
+DjuliAPIpython/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*/__pycache__/
+src/files/
+venv
+node_modules
