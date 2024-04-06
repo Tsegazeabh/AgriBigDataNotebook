@@ -1,50 +1,27 @@
-# DjuliAPIpython
+# Big AgriSenze Jupyter Notebook Project
 
-Python API for djuli
 
 ## Installing dependencies
-Python version: >= 3.9
-1. Install dependencies. (A python environment is recommended)
-    > pip install -r requirements.txt
-1. If the host isn't Windows (required for DT6 files decode)
-    For Linux:
-        > apt-get update
-        > apt-get install --no-install-recommends --assume-yes wine
-        > apt-get update
-        > apt-get install --no-install-recommends --assume-yes wine32
+Python version: >= 3.12.2
+1. Install latest anaconda or miniconda for a conda environment
+2. Clone the project from git repository 
+3. Locate the cloned project directory/folder
+4. Re-create the virtual environment and activate your virtual environment
+	> conda create --name env --file requirements.txt
+	> conda activate <full path to your env file>
+	OR
+	> conda create --name <your_env_name>
+	> conda activate <full path to your_env_name>  
+	Modify the requirements.txt file to have package name = version number by the removing the additional ='' at the end for all packages
+	> pip install requirements.txt
 
-## Run project
-> python src/main.py
-
-## Run unit tests
-> pytest
-
-## Create docker image
-1. Create master pull-request
-
-1. Build docker container
-docker build .
-
-1. Check the image code
-docker images
-
-1. Verify that the docker image can run properly (Change the image code)
-docker run -it -p 8002:8080 --rm f48c98a47a9f
-
-1. Tag the container (Remember to change the version id and the docker image code)
-docker tag docker run -it -p 8002:8080 --rm f48c98a47a9f <docker-registry>
-docker tag f48c98a47a9f eu.gcr.io/djuli-zp/djuli-python:0.1.3.3
-
-1. Push the container (Remember to change the version id)
-docker push <docker-registry>
-docker push eu.gcr.io/djuli-zp/djuli-python:0.1.3.3
-
-1. Update Cloud Run djuli-python project
-https://console.cloud.google.com/run/detail/europe-west4/djuli-python/revisions?project=djuli-zp
+5. Open Jupyter Notebook by running
+    > jupyter notebook
+6. Install additional necessary packages from Jupyter Notebook
+	> conda install <packag_name>  
+	OR 
+	> !pip install <packag_name
 
 
-# Use GCloud to build the container
-> gcloud builds submit
-
-## Update Requirements
-pip freeze
+## Update Virtual Environment Requirements file
+   > conda list --export > requirements.txt
