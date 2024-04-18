@@ -1,7 +1,17 @@
-DjuliAPIpython/
-*/*/__pycache__/
-*/*/*/__pycache__/
-*/__pycache__/
-src/files/
-venv
+# Ignore the virtual environment directory
+env/
+env/*
+venv/
+images/
+# Ignore compiled Python files
+*.pyc
+# Ignore log files
+*.log
+# Ignore IDE-specific files
+.vscode/
+.idea/
 node_modules
+# Ignore checkpoit director
+.ipynb_checkpoints/
+# Ignore tmp files
+*.tmp

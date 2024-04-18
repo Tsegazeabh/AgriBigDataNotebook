@@ -12,7 +12,7 @@ Python version: >= 3.12.2
 	OR
 	> conda create --name <your_env_name>
 	> conda activate <full path to your_env_name>  
-	Modify the requirements.txt file to have package name = version number by the removing the additional ='' at the end for all packages
+	Modify the requirements.txt file to have package name = version number by the removing the additional ='******' at the end for all packages
 	> pip install requirements.txt
 
 5. Open Jupyter Notebook by running
