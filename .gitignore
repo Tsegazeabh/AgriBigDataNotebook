@@ -3,6 +3,7 @@ env/
 env/*
 venv/
 images/
+models/
 # Ignore compiled Python files
 *.pyc
 # Ignore log files
