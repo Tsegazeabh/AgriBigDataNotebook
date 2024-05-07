@@ -1,0 +1,391 @@
+=====================================================================================================================================================
+=====================================JT5 Evaluations Results With Important Features Considered =====================================================
+====================Random Forest The Evaluation Metrics Results For JT5 Denormalized =======================
+
+Out of Bag Score:  0.999443621657327
+{'Training Set R^2 Score': 0.9999230607115706, 'Validation Set R^2 Score': 0.9994414737289579, 'Training Set MAE': 0.0427458385002434, 'Validation Set MAE': 0.11489466742424222, 'Training Set MSE': 0.0035355709720485268, 'Validation Set MSE': 0.02587483169025375, 'Training Set Median Absolute Error': 0.0319999999999947, 'Validation Set Median Absolute Error': 0.08499999999999981, 'Training Set MA Percentage Error': 4499613565242.957, 'Validation Set MA Percentage Error': 11868854694330.31, 'Training Set Max Error': 0.5719999999999972, 'Validation Set Max Error': 1.4440000000000026, 'Training Set Explained Variance Score': 0.9999230693333003, 'Validation Set Explained Variance Score': 0.9994421320158983}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9997071485342018, 'Validation Set R^2 Score': 0.9995417054808139, 'Training Set MAE': 0.08492538062370807, 'Validation Set MAE': 0.10612590283260945, 'Training Set MSE': 0.013457326714788352, 'Validation Set MSE': 0.02123139799025063, 'Training Set Median Absolute Error': 0.06682244147493321, 'Validation Set Median Absolute Error': 0.078951759532098, 'Training Set MA Percentage Error': 11497706977161.1, 'Validation Set MA Percentage Error': 14518856092639.207, 'Training Set Max Error': 1.6594113639793784, 'Validation Set Max Error': 0.8656514075077604, 'Training Set Explained Variance Score': 0.9997071485342018, 'Validation Set Explained Variance Score': 0.9995417115886956}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9992103514269012, 'Validation Set R^2 Score': 0.9992629956367429, 'Training Set MAE': 0.14430422579008348, 'Validation Set MAE': 0.13897956277990042, 'Training Set MSE': 0.03628651408350026, 'Validation Set MSE': 0.03414318151709729, 'Training Set Median Absolute Error': 0.11592936669012488, 'Validation Set Median Absolute Error': 0.11028064126657171, 'Training Set MA Percentage Error': 21571537688499.543, 'Validation Set MA Percentage Error': 22144897670716.92, 'Training Set Max Error': 2.106755496553057, 'Validation Set Max Error': 1.0293115063819833, 'Training Set Explained Variance Score': 0.9992103514269012, 'Validation Set Explained Variance Score': 0.9992630275651101}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.998374879445347, 'Validation Set R^2 Score': 0.9983118877490932, 'Training Set MAE': 0.22314546674613114, 'Validation Set MAE': 0.23001381942147153, 'Training Set MSE': 0.07467873925535194, 'Validation Set MSE': 0.07820513130916597, 'Training Set Median Absolute Error': 0.1995612963303799, 'Validation Set Median Absolute Error': 0.21052542997013624, 'Training Set MA Percentage Error': 43585611468245.195, 'Validation Set MA Percentage Error': 40660084878268.17, 'Training Set Max Error': 2.1794753706273866, 'Validation Set Max Error': 1.2478253534777302, 'Training Set Explained Variance Score': 0.998374879445347, 'Validation Set Explained Variance Score': 0.9983119922078283}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9979951430441502, 'Validation Set R^2 Score': 0.9979042408188877, 'Training Set MAE': 0.2451807962063093, 'Validation Set MAE': 0.25330406032380837, 'Training Set MSE': 0.09212866665276376, 'Validation Set MSE': 0.0970901797929823, 'Training Set Median Absolute Error': 0.2187582913258943, 'Validation Set Median Absolute Error': 0.232653692842, 'Training Set MA Percentage Error': 48076893106982.81, 'Validation Set MA Percentage Error': 43700938313112.78, 'Training Set Max Error': 2.179587434492057, 'Validation Set Max Error': 1.4547584299467735, 'Training Set Explained Variance Score': 0.9979951430441502, 'Validation Set Explained Variance Score': 0.9979043989527756}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9989182974208477, 'Validation Set R^2 Score': 0.9989391976488307, 'Training Set MAE': 0.1733931974768998, 'Validation Set MAE': 0.17352777410462938, 'Training Set MSE': 0.04970719533948862, 'Validation Set MSE': 0.04914376228340845, 'Training Set Median Absolute Error': 0.14264765595188145, 'Validation Set Median Absolute Error': 0.14259786877417618, 'Training Set MA Percentage Error': 22155492560178.848, 'Validation Set MA Percentage Error': 21595973729819.156, 'Training Set Max Error': 1.766925908517002, 'Validation Set Max Error': 0.9246927831704705, 'Training Set Explained Variance Score': 0.9989991253462549, 'Validation Set Explained Variance Score': 0.9990257892434213}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.6078267128347841, 'Validation Set R^2 Score': 0.5935423451801101, 'Training Set MAE': 3.692020976451806, 'Validation Set MAE': 3.7994825245690964, 'Training Set MSE': 18.021436361302747, 'Validation Set MSE': 18.829952954686892, 'Training Set Median Absolute Error': 3.5564460694130644, 'Validation Set Median Absolute Error': 3.7263042059526423, 'Training Set MA Percentage Error': 729159219754637.8, 'Validation Set MA Percentage Error': 541971731615604.44, 'Training Set Max Error': 9.464623810540218, 'Validation Set Max Error': 9.145651003687743, 'Training Set Explained Variance Score': 0.6168133193733474, 'Validation Set Explained Variance Score': 0.603897429840483}
+=======================================================================================================
+
+=====================================JT5 Evaluations Results With All Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT5 Denormalized =======================
+
+Out of Bag Score:  0.9995670651672005
+{'Training Set R^2 Score': 0.9999400632936534, 'Validation Set R^2 Score': 0.9995635566228075, 'Training Set MAE': 0.03642778899529312, 'Validation Set MAE': 0.09891148560606045, 'Training Set MSE': 0.002754255770296714, 'Validation Set MSE': 0.020219100716805286, 'Training Set Median Absolute Error': 0.0259999999999998, 'Validation Set Median Absolute Error': 0.07000000000000117, 'Training Set MA Percentage Error': 4111557661431.3447, 'Validation Set MA Percentage Error': 11931881206388.184, 'Training Set Max Error': 0.6119999999999963, 'Validation Set Max Error': 1.019000000000002, 'Training Set Explained Variance Score': 0.9999400821138381, 'Validation Set Explained Variance Score': 0.9995644932752284}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.999792581587041, 'Validation Set R^2 Score': 0.9996473147454329, 'Training Set MAE': 0.07054222331929527, 'Validation Set MAE': 0.09216232688759629, 'Training Set MSE': 0.009531444011201562, 'Validation Set MSE': 0.016338840399631953, 'Training Set Median Absolute Error': 0.05528866228725171, 'Validation Set Median Absolute Error': 0.06765747709476688, 'Training Set MA Percentage Error': 11009992409728.896, 'Validation Set MA Percentage Error': 13239112754650.639, 'Training Set Max Error': 1.5428346294457473, 'Validation Set Max Error': 0.9107003411209575, 'Training Set Explained Variance Score': 0.999792581587041, 'Validation Set Explained Variance Score': 0.9996473161810263}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9995037280551664, 'Validation Set R^2 Score': 0.999532415049941, 'Training Set MAE': 0.10896097247205355, 'Validation Set MAE': 0.10538708728181062, 'Training Set MSE': 0.022805054715392403, 'Validation Set MSE': 0.021661795533984406, 'Training Set Median Absolute Error': 0.08125656632649633, 'Validation Set Median Absolute Error': 0.0763821022584883, 'Training Set MA Percentage Error': 17073926883891.41, 'Validation Set MA Percentage Error': 17327072795477.973, 'Training Set Max Error': 2.1513658333025383, 'Validation Set Max Error': 0.9513286360138531, 'Training Set Explained Variance Score': 0.9995037280551664, 'Validation Set Explained Variance Score': 0.999532418874249}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.998374879445347, 'Validation Set R^2 Score': 0.9983118877490932, 'Training Set MAE': 0.22314546674613114, 'Validation Set MAE': 0.23001381942147153, 'Training Set MSE': 0.07467873925535194, 'Validation Set MSE': 0.07820513130916597, 'Training Set Median Absolute Error': 0.1995612963303799, 'Validation Set Median Absolute Error': 0.21052542997013624, 'Training Set MA Percentage Error': 43585611468245.195, 'Validation Set MA Percentage Error': 40660084878268.17, 'Training Set Max Error': 2.1794753706273866, 'Validation Set Max Error': 1.2478253534777302, 'Training Set Explained Variance Score': 0.998374879445347, 'Validation Set Explained Variance Score': 0.9983119922078283}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9979952040307654, 'Validation Set R^2 Score': 0.997904304067876, 'Training Set MAE': 0.24517695973226994, 'Validation Set MAE': 0.25330017322180554, 'Training Set MSE': 0.09212586415080835, 'Validation Set MSE': 0.09708724965878586, 'Training Set Median Absolute Error': 0.21876057897453904, 'Validation Set Median Absolute Error': 0.23265301654431148, 'Training Set MA Percentage Error': 48075724863088.73, 'Validation Set MA Percentage Error': 43699426496031.87, 'Training Set Max Error': 2.1795883793274253, 'Validation Set Max Error': 1.4547365527299732, 'Training Set Explained Variance Score': 0.9979952040307654, 'Validation Set Explained Variance Score': 0.9979044621331347}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9991394904995293, 'Validation Set R^2 Score': 0.9991216529437374, 'Training Set MAE': 0.1510557673327812, 'Validation Set MAE': 0.15149970180566616, 'Training Set MSE': 0.03954276772169959, 'Validation Set MSE': 0.040691160693334255, 'Training Set Median Absolute Error': 0.119052170255944, 'Validation Set Median Absolute Error': 0.11915117375718065, 'Training Set MA Percentage Error': 25001336781279.953, 'Validation Set MA Percentage Error': 23795737705898.316, 'Training Set Max Error': 1.9971464770769478, 'Validation Set Max Error': 1.1073028052302303, 'Training Set Explained Variance Score': 0.9991986201570773, 'Validation Set Explained Variance Score': 0.9991725718011464}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT5 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7018205683826068, 'Validation Set R^2 Score': 0.6840288886394305, 'Training Set MAE': 3.1351869467759115, 'Validation Set MAE': 3.261960407720499, 'Training Set MSE': 13.702161332774462, 'Validation Set MSE': 14.637985264654706, 'Training Set Median Absolute Error': 2.898201223462001, 'Validation Set Median Absolute Error': 3.012077472472102, 'Training Set MA Percentage Error': 632607092382668.5, 'Validation Set MA Percentage Error': 475042042664375.06, 'Training Set Max Error': 9.700745768498685, 'Validation Set Max Error': 10.23367267953259, 'Training Set Explained Variance Score': 0.7081126256499939, 'Validation Set Explained Variance Score': 0.6924107497773463}
+=======================================================================================================
+
+
+
+
+======================================================================================================================================================
+=====================================JT10 Evaluations Results With Important Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT10 Denormalized =======================
+
+Out of Bag Score:  0.9984435501800265
+{'Training Set R^2 Score': 0.9997865997734174, 'Validation Set R^2 Score': 0.997711752266374, 'Training Set MAE': 0.059256810907320344, 'Validation Set MAE': 0.16483050227272708, 'Training Set MSE': 0.00944086068899859, 'Validation Set MSE': 0.10291009367039605, 'Training Set Median Absolute Error': 0.041000000000003034, 'Validation Set Median Absolute Error': 0.1162409999999994, 'Training Set MA Percentage Error': 4271810809087.39, 'Validation Set MA Percentage Error': 13080899591317.998, 'Training Set Max Error': 1.6680000000000064, 'Validation Set Max Error': 6.752999999999995, 'Training Set Explained Variance Score': 0.9997866417308862, 'Validation Set Explained Variance Score': 0.997716316403315}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9992245754256079, 'Validation Set R^2 Score': 0.99782847559276, 'Training Set MAE': 0.1202175265277958, 'Validation Set MAE': 0.16027950877106428, 'Training Set MSE': 0.03430490913199992, 'Validation Set MSE': 0.09766065835996451, 'Training Set Median Absolute Error': 0.09022576650049885, 'Validation Set Median Absolute Error': 0.11628417192136231, 'Training Set MA Percentage Error': 9275146507911.916, 'Validation Set MA Percentage Error': 12573822163316.291, 'Training Set Max Error': 3.17319004404822, 'Validation Set Max Error': 6.751206783465923, 'Training Set Explained Variance Score': 0.9992245754256079, 'Validation Set Explained Variance Score': 0.9978312523587102}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9984167977468181, 'Validation Set R^2 Score': 0.9976327917841293, 'Training Set MAE': 0.1702902770127219, 'Validation Set MAE': 0.17176258768296634, 'Training Set MSE': 0.07004112485802902, 'Validation Set MSE': 0.10646120857139561, 'Training Set Median Absolute Error': 0.13158205143565116, 'Validation Set Median Absolute Error': 0.12845367837389787, 'Training Set MA Percentage Error': 12813446207991.492, 'Validation Set MA Percentage Error': 17201660718367.273, 'Training Set Max Error': 4.219719983470517, 'Validation Set Max Error': 6.794650120593799, 'Training Set Explained Variance Score': 0.9984167977468181, 'Validation Set Explained Variance Score': 0.9976361865943961}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9971543522365115, 'Validation Set R^2 Score': 0.9961651974788338, 'Training Set MAE': 0.26291109078418734, 'Validation Set MAE': 0.2739314734900065, 'Training Set MSE': 0.12589191930715038, 'Validation Set MSE': 0.1724637943966521, 'Training Set Median Absolute Error': 0.22341710279191399, 'Validation Set Median Absolute Error': 0.23406395573588834, 'Training Set MA Percentage Error': 27933447576277.3, 'Validation Set MA Percentage Error': 34529573273269.1, 'Training Set Max Error': 4.450260033317474, 'Validation Set Max Error': 7.260470264974074, 'Training Set Explained Variance Score': 0.9971543522365115, 'Validation Set Explained Variance Score': 0.9961697008356699}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9967672941619116, 'Validation Set R^2 Score': 0.9958021741889259, 'Training Set MAE': 0.27870862592772194, 'Validation Set MAE': 0.2879623152800683, 'Training Set MSE': 0.14301543140162737, 'Validation Set MSE': 0.18879015636348145, 'Training Set Median Absolute Error': 0.23163601048645677, 'Validation Set Median Absolute Error': 0.23216796651618563, 'Training Set MA Percentage Error': 28313163803663.27, 'Validation Set MA Percentage Error': 34844228981558.496, 'Training Set Max Error': 4.572615404440917, 'Validation Set Max Error': 7.416346732654443, 'Training Set Explained Variance Score': 0.9967672941619116, 'Validation Set Explained Variance Score': 0.9958058163753498}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9980165934757713, 'Validation Set R^2 Score': 0.9972157881017676, 'Training Set MAE': 0.20064652355175122, 'Validation Set MAE': 0.2018915185546624, 'Training Set MSE': 0.0877462268188, 'Validation Set MSE': 0.12521524790993396, 'Training Set Median Absolute Error': 0.1518572908745437, 'Validation Set Median Absolute Error': 0.14491442258811554, 'Training Set MA Percentage Error': 19744257214193.668, 'Validation Set MA Percentage Error': 22428886942836.496, 'Training Set Max Error': 4.198040471753414, 'Validation Set Max Error': 6.789828620586851, 'Training Set Explained Variance Score': 0.9980165963828462, 'Validation Set Explained Variance Score': 0.997218122834281}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.6894178135773064, 'Validation Set R^2 Score': 0.6759987020277467, 'Training Set MAE': 3.215491656420782, 'Validation Set MAE': 3.337348980580078, 'Training Set MSE': 13.74020637868125, 'Validation Set MSE': 14.571413502863189, 'Training Set Median Absolute Error': 3.097580187850051, 'Validation Set Median Absolute Error': 3.2827447266216594, 'Training Set MA Percentage Error': 375130791608634.1, 'Validation Set MA Percentage Error': 475247718998654.44, 'Training Set Max Error': 8.226198909078057, 'Validation Set Max Error': 9.10508285343911, 'Training Set Explained Variance Score': 0.695818200766939, 'Validation Set Explained Variance Score': 0.6835159600150513}
+=======================================================================================================
+
+=====================================JT10 Evaluations Results With All Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT10 Denormalized =======================
+
+Out of Bag Score:  0.9986665399084362
+{'Training Set R^2 Score': 0.9998173840844188, 'Validation Set R^2 Score': 0.9978493277914731, 'Training Set MAE': 0.05348540577828278, 'Validation Set MAE': 0.14883874393939375, 'Training Set MSE': 0.00807895776966128, 'Validation Set MSE': 0.09672286579001813, 'Training Set Median Absolute Error': 0.03600000000000847, 'Validation Set Median Absolute Error': 0.10043800000000003, 'Training Set MA Percentage Error': 3597724794483.325, 'Validation Set MA Percentage Error': 12380211137475.031, 'Training Set Max Error': 1.6470000000000056, 'Validation Set Max Error': 6.757, 'Training Set Explained Variance Score': 0.9998174342698086, 'Validation Set Explained Variance Score': 0.9978527719001787}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9994362559438262, 'Validation Set R^2 Score': 0.9980892767439311, 'Training Set MAE': 0.0992638376249395, 'Validation Set MAE': 0.13249033359285914, 'Training Set MSE': 0.02494012862038625, 'Validation Set MSE': 0.08593156517570763, 'Training Set Median Absolute Error': 0.07384111476062699, 'Validation Set Median Absolute Error': 0.09069980546027057, 'Training Set MA Percentage Error': 8971602344173.209, 'Validation Set MA Percentage Error': 13169566346762.8, 'Training Set Max Error': 2.914841899750254, 'Validation Set Max Error': 6.574108290191578, 'Training Set Explained Variance Score': 0.9994362559438262, 'Validation Set Explained Variance Score': 0.9980899556203253}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9986082444999163, 'Validation Set R^2 Score': 0.9978126576293687, 'Training Set MAE': 0.15380715281680016, 'Validation Set MAE': 0.1543793358026757, 'Training Set MSE': 0.06157148940213008, 'Validation Set MSE': 0.09837204466239967, 'Training Set Median Absolute Error': 0.11526413345921088, 'Validation Set Median Absolute Error': 0.10413685924581488, 'Training Set MA Percentage Error': 12357162860231.916, 'Validation Set MA Percentage Error': 15776934574337.977, 'Training Set Max Error': 4.131691957702624, 'Validation Set Max Error': 6.658569435740375, 'Training Set Explained Variance Score': 0.9986082444999163, 'Validation Set Explained Variance Score': 0.9978143704960555}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9971520869956049, 'Validation Set R^2 Score': 0.9961627978251357, 'Training Set MAE': 0.26303872672229067, 'Validation Set MAE': 0.27406254620663884, 'Training Set MSE': 0.1259921339328283, 'Validation Set MSE': 0.17257171478622263, 'Training Set Median Absolute Error': 0.22331924909440914, 'Validation Set Median Absolute Error': 0.2342423630441708, 'Training Set MA Percentage Error': 27952503114841.24, 'Validation Set MA Percentage Error': 34551577206092.33, 'Training Set Max Error': 4.450757683784301, 'Validation Set Max Error': 7.261204881042799, 'Training Set Explained Variance Score': 0.9971520869956049, 'Validation Set Explained Variance Score': 0.9961673000186672}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9968392217411898, 'Validation Set R^2 Score': 0.9958673385138213, 'Training Set MAE': 0.2753314213055781, 'Validation Set MAE': 0.28484629163152525, 'Training Set MSE': 0.13983334361036073, 'Validation Set MSE': 0.18585950043825256, 'Training Set Median Absolute Error': 0.22761424562778387, 'Validation Set Median Absolute Error': 0.23180000100593112, 'Training Set MA Percentage Error': 28378678905833.797, 'Validation Set MA Percentage Error': 35134501931904.473, 'Training Set Max Error': 4.5703748967218285, 'Validation Set Max Error': 7.41731893236329, 'Training Set Explained Variance Score': 0.9968392217411898, 'Validation Set Explained Variance Score': 0.9958706951969728}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9982813784607553, 'Validation Set R^2 Score': 0.9974355592517258, 'Training Set MAE': 0.18203395891741675, 'Validation Set MAE': 0.19052673519770663, 'Training Set MSE': 0.07603209607112443, 'Validation Set MSE': 0.11533141003001735, 'Training Set Median Absolute Error': 0.1405192227454636, 'Validation Set Median Absolute Error': 0.14942440064623944, 'Training Set MA Percentage Error': 17208203315467.604, 'Validation Set MA Percentage Error': 22764681589830.297, 'Training Set Max Error': 4.1242713079208295, 'Validation Set Max Error': 6.688042020018003, 'Training Set Explained Variance Score': 0.9983057958961316, 'Validation Set Explained Variance Score': 0.9974720524335444}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT10 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7473090615831806, 'Validation Set R^2 Score': 0.7315794363233861, 'Training Set MAE': 2.8226995029797517, 'Validation Set MAE': 2.9495454893305095, 'Training Set MSE': 11.179088162977912, 'Validation Set MSE': 12.071763448115913, 'Training Set Median Absolute Error': 2.6000787591665304, 'Validation Set Median Absolute Error': 2.713222197677359, 'Training Set MA Percentage Error': 328929555805444.5, 'Validation Set MA Percentage Error': 399400132160013.3, 'Training Set Max Error': 9.104748967017054, 'Validation Set Max Error': 9.444687349888504, 'Training Set Explained Variance Score': 0.7519071507368981, 'Validation Set Explained Variance Score': 0.7379547188316776}
+=======================================================================================================
+
+
+======================================================================================================================================================
+=====================================JT20 Evaluations Results With Important Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT20 Denormalized =======================
+
+Out of Bag Score:  0.9973185966969508
+{'Training Set R^2 Score': 0.9996314792778783, 'Validation Set R^2 Score': 0.9962419961351763, 'Training Set MAE': 0.07256717562084085, 'Validation Set MAE': 0.20023300833333338, 'Training Set MSE': 0.014751856965819992, 'Validation Set MSE': 0.15367074365485842, 'Training Set Median Absolute Error': 0.04630700000001298, 'Validation Set Median Absolute Error': 0.11699999999999933, 'Training Set MA Percentage Error': 6716440124493.562, 'Validation Set MA Percentage Error': 14684464239547.582, 'Training Set Max Error': 1.6209999999999978, 'Validation Set Max Error': 6.629, 'Training Set Explained Variance Score': 0.9996316664994981, 'Validation Set Explained Variance Score': 0.9962546802891954}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9984679719259052, 'Validation Set R^2 Score': 0.996418587841436, 'Training Set MAE': 0.15658180385104795, 'Validation Set MAE': 0.21123685152797664, 'Training Set MSE': 0.0613269693127494, 'Validation Set MSE': 0.14644962845638235, 'Training Set Median Absolute Error': 0.11137843982783258, 'Validation Set Median Absolute Error': 0.14154759168603803, 'Training Set MA Percentage Error': 18798660330991.312, 'Validation Set MA Percentage Error': 16027041838307.457, 'Training Set Max Error': 3.4015949273507453, 'Validation Set Max Error': 6.587139750158587, 'Training Set Explained Variance Score': 0.9984679719259052, 'Validation Set Explained Variance Score': 0.996421413462081}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9966029191352355, 'Validation Set R^2 Score': 0.9958720250766715, 'Training Set MAE': 0.2122471872082257, 'Validation Set MAE': 0.21285864416306755, 'Training Set MSE': 0.13598489314201492, 'Validation Set MSE': 0.1687994475456082, 'Training Set Median Absolute Error': 0.14090971838595223, 'Validation Set Median Absolute Error': 0.13821839632655086, 'Training Set MA Percentage Error': 28648137963701.727, 'Validation Set MA Percentage Error': 23525298074038.305, 'Training Set Max Error': 4.839352715231058, 'Validation Set Max Error': 6.412490827465327, 'Training Set Explained Variance Score': 0.9966029191352355, 'Validation Set Explained Variance Score': 0.9958749486577186}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9925903989178856, 'Validation Set R^2 Score': 0.9919329353213715, 'Training Set MAE': 0.4096931017645868, 'Validation Set MAE': 0.41316858349751806, 'Training Set MSE': 0.29660577757430484, 'Validation Set MSE': 0.32987508072582755, 'Training Set Median Absolute Error': 0.34603495466142276, 'Validation Set Median Absolute Error': 0.3426512950598549, 'Training Set MA Percentage Error': 71528850802276.28, 'Validation Set MA Percentage Error': 49739205658082.11, 'Training Set Max Error': 4.856918093695359, 'Validation Set Max Error': 6.268892709560886, 'Training Set Explained Variance Score': 0.9925903989178856, 'Validation Set Explained Variance Score': 0.9919358960879398}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9918725139891928, 'Validation Set R^2 Score': 0.9920198833458429, 'Training Set MAE': 0.42218635179996444, 'Validation Set MAE': 0.41525522807708865, 'Training Set MSE': 0.325342657620082, 'Validation Set MSE': 0.32631963798003855, 'Training Set Median Absolute Error': 0.33247432083312795, 'Validation Set Median Absolute Error': 0.3307115231375364, 'Training Set MA Percentage Error': 58215475126729.7, 'Validation Set MA Percentage Error': 44872392388532.89, 'Training Set Max Error': 4.8055129377158075, 'Validation Set Max Error': 6.518623266514422, 'Training Set Explained Variance Score': 0.9918725139891928, 'Validation Set Explained Variance Score': 0.992022683597317}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9959235880117604, 'Validation Set R^2 Score': 0.9942978688649369, 'Training Set MAE': 0.25020703789928744, 'Validation Set MAE': 0.26064151898892857, 'Training Set MSE': 0.16317846724617413, 'Validation Set MSE': 0.23316919392891255, 'Training Set Median Absolute Error': 0.17836302094220535, 'Validation Set Median Absolute Error': 0.18351935750106385, 'Training Set MA Percentage Error': 41946084926439.516, 'Validation Set MA Percentage Error': 30983826353347.36, 'Training Set Max Error': 4.910966177904637, 'Validation Set Max Error': 7.578370716740036, 'Training Set Explained Variance Score': 0.9959370822753926, 'Validation Set Explained Variance Score': 0.9943320923321922}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7491114876495939, 'Validation Set R^2 Score': 0.7389529335383824, 'Training Set MAE': 2.7456210792369355, 'Validation Set MAE': 2.856632492558142, 'Training Set MSE': 10.043048399701082, 'Validation Set MSE': 10.674628945321274, 'Training Set Median Absolute Error': 2.6966777942709155, 'Validation Set Median Absolute Error': 2.8692546969491204, 'Training Set MA Percentage Error': 502609628708043.9, 'Validation Set MA Percentage Error': 400740771798868.06, 'Training Set Max Error': 7.328560653488697, 'Validation Set Max Error': 7.1905380901344795, 'Training Set Explained Variance Score': 0.7525493151035643, 'Validation Set Explained Variance Score': 0.7427316100451633}
+=======================================================================================================
+
+=====================================JT20 Evaluations Results With All Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT20 Denormalized =======================
+
+Out of Bag Score:  0.997327095731079
+{'Training Set R^2 Score': 0.9996321580263204, 'Validation Set R^2 Score': 0.9963222876654547, 'Training Set MAE': 0.06968861012822605, 'Validation Set MAE': 0.1965061863636363, 'Training Set MSE': 0.014724686716407219, 'Validation Set MSE': 0.15038749552343186, 'Training Set Median Absolute Error': 0.042000000000014026, 'Validation Set Median Absolute Error': 0.12099999999999933, 'Training Set MA Percentage Error': 6281776606294.495, 'Validation Set MA Percentage Error': 12922867598030.006, 'Training Set Max Error': 1.6739999999999986, 'Validation Set Max Error': 6.586, 'Training Set Explained Variance Score': 0.9996323984227597, 'Validation Set Explained Variance Score': 0.9963309817386226}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.998702886259055, 'Validation Set R^2 Score': 0.9965838533829068, 'Training Set MAE': 0.14136222444760088, 'Validation Set MAE': 0.20065236572720715, 'Training Set MSE': 0.05192336611264961, 'Validation Set MSE': 0.13969165811578355, 'Training Set Median Absolute Error': 0.0985355106917476, 'Validation Set Median Absolute Error': 0.13277670926869267, 'Training Set MA Percentage Error': 16581695483761.648, 'Validation Set MA Percentage Error': 15066302828323.463, 'Training Set Max Error': 3.1346378468973475, 'Validation Set Max Error': 6.406552721597602, 'Training Set Explained Variance Score': 0.998702886259055, 'Validation Set Explained Variance Score': 0.9965893664585351}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.996763772246109, 'Validation Set R^2 Score': 0.9961846216402992, 'Training Set MAE': 0.20761973809963843, 'Validation Set MAE': 0.2094267347816975, 'Training Set MSE': 0.1295459551348011, 'Validation Set MSE': 0.15601687782920362, 'Training Set Median Absolute Error': 0.13642812070795873, 'Validation Set Median Absolute Error': 0.13656711650071252, 'Training Set MA Percentage Error': 28920942485401.14, 'Validation Set MA Percentage Error': 21388873416999.14, 'Training Set Max Error': 4.74137725797215, 'Validation Set Max Error': 6.341243143991035, 'Training Set Explained Variance Score': 0.996763772246109, 'Validation Set Explained Variance Score': 0.9961886527452251}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9926227149703786, 'Validation Set R^2 Score': 0.9919650749162775, 'Training Set MAE': 0.40846387116076344, 'Validation Set MAE': 0.4118474018899646, 'Training Set MSE': 0.29531216840809177, 'Validation Set MSE': 0.3285608416703013, 'Training Set Median Absolute Error': 0.3421988194264778, 'Validation Set Median Absolute Error': 0.34052760745056365, 'Training Set MA Percentage Error': 71321108119477.66, 'Validation Set MA Percentage Error': 49613657618191.52, 'Training Set Max Error': 4.859236107845292, 'Validation Set Max Error': 6.267912834579242, 'Training Set Explained Variance Score': 0.9926227149703786, 'Validation Set Explained Variance Score': 0.9919681045024986}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9923361356119577, 'Validation Set R^2 Score': 0.9924900065986683, 'Training Set MAE': 0.40324861622669933, 'Validation Set MAE': 0.3975585114872069, 'Training Set MSE': 0.3067839187087051, 'Validation Set MSE': 0.3070955518774788, 'Training Set Median Absolute Error': 0.311802578594096, 'Validation Set Median Absolute Error': 0.31651501221036504, 'Training Set MA Percentage Error': 56928551641352.58, 'Validation Set MA Percentage Error': 44033360833148.336, 'Training Set Max Error': 4.68866374874401, 'Validation Set Max Error': 6.4052349683339544, 'Training Set Explained Variance Score': 0.9923361356119577, 'Validation Set Explained Variance Score': 0.9924946933926585}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9960900540244556, 'Validation Set R^2 Score': 0.9955461086109741, 'Training Set MAE': 0.2514014330443769, 'Validation Set MAE': 0.2502719990614962, 'Training Set MSE': 0.15651484519851294, 'Validation Set MSE': 0.18212668920224365, 'Training Set Median Absolute Error': 0.17639366734693507, 'Validation Set Median Absolute Error': 0.1704194311580129, 'Training Set MA Percentage Error': 41402989515511.2, 'Validation Set MA Percentage Error': 29664182147181.86, 'Training Set Max Error': 4.855314424010788, 'Validation Set Max Error': 6.216851005918209, 'Training Set Explained Variance Score': 0.9962912363607741, 'Validation Set Explained Variance Score': 0.9957813106385213}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT20 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7713756266199784, 'Validation Set R^2 Score': 0.7595056935375728, 'Training Set MAE': 2.567113080180186, 'Validation Set MAE': 2.6808141295771275, 'Training Set MSE': 9.151816580585546, 'Validation Set MSE': 9.834193962590463, 'Training Set Median Absolute Error': 2.4287598666327064, 'Validation Set Median Absolute Error': 2.578089400584427, 'Training Set MA Percentage Error': 486307681150405.8, 'Validation Set MA Percentage Error': 375147561170405.5, 'Training Set Max Error': 8.476403420325589, 'Validation Set Max Error': 8.333353025990364, 'Training Set Explained Variance Score': 0.7738670082944792, 'Validation Set Explained Variance Score': 0.7628705686545221}
+=======================================================================================================
+
+==================================================================================================================================================
+=====================================JT50 Evaluations Results With Important Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT50 Denormalized =======================
+
+Out of Bag Score:  0.9941818028060899
+{'Training Set R^2 Score': 0.9991950133247761, 'Validation Set R^2 Score': 0.9944290058053022, 'Training Set MAE': 0.10826354942379489, 'Validation Set MAE': 0.2920635015151517, 'Training Set MSE': 0.024211443159998708, 'Validation Set MSE': 0.17426915839740176, 'Training Set Median Absolute Error': 0.07599999999999518, 'Validation Set Median Absolute Error': 0.2099999999999982, 'Training Set MA Percentage Error': 1313580349031.814, 'Validation Set MA Percentage Error': 3298238481648.0767, 'Training Set Max Error': 1.694366999999994, 'Validation Set Max Error': 2.968596999999992, 'Training Set Explained Variance Score': 0.9991957930858023, 'Validation Set Explained Variance Score': 0.9944312205056266}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9964969968887062, 'Validation Set R^2 Score': 0.9945005951109075, 'Training Set MAE': 0.23700806108532652, 'Validation Set MAE': 0.3019192095642414, 'Training Set MSE': 0.10535921069103009, 'Validation Set MSE': 0.17202973620415168, 'Training Set Median Absolute Error': 0.17788035152495363, 'Validation Set Median Absolute Error': 0.2299820313591301, 'Training Set MA Percentage Error': 3226459534221.376, 'Validation Set MA Percentage Error': 5969341066429.73, 'Training Set Max Error': 2.4258255942638023, 'Validation Set Max Error': 2.8954076152191095, 'Training Set Explained Variance Score': 0.9964969968887062, 'Validation Set Explained Variance Score': 0.9945049154838401}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9869544000883491, 'Validation Set R^2 Score': 0.9872252087359575, 'Training Set MAE': 0.442631116166315, 'Validation Set MAE': 0.45128985851963127, 'Training Set MSE': 0.39237022235326524, 'Validation Set MSE': 0.3996148702517077, 'Training Set Median Absolute Error': 0.34099833493166765, 'Validation Set Median Absolute Error': 0.3593306396666307, 'Training Set MA Percentage Error': 4781187290528.663, 'Validation Set MA Percentage Error': 3058419276470.3857, 'Training Set Max Error': 5.316229662254532, 'Validation Set Max Error': 7.268753653244925, 'Training Set Explained Variance Score': 0.9869544000883491, 'Validation Set Explained Variance Score': 0.9872412490075462}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9752398520776138, 'Validation Set R^2 Score': 0.9764515262084213, 'Training Set MAE': 0.6643431077870817, 'Validation Set MAE': 0.6652429297350871, 'Training Set MSE': 0.7447066299442391, 'Validation Set MSE': 0.7366320203865022, 'Training Set Median Absolute Error': 0.5476655661156613, 'Validation Set Median Absolute Error': 0.5623912045982298, 'Training Set MA Percentage Error': 10446145034660.164, 'Validation Set MA Percentage Error': 13978206722900.023, 'Training Set Max Error': 5.231666148860928, 'Validation Set Max Error': 4.914026355976742, 'Training Set Explained Variance Score': 0.9752398520776138, 'Validation Set Explained Variance Score': 0.9764731711182028}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.974614723789885, 'Validation Set R^2 Score': 0.9762413226543176, 'Training Set MAE': 0.6742413494029347, 'Validation Set MAE': 0.6682286652197892, 'Training Set MSE': 0.7635085039030138, 'Validation Set MSE': 0.7432075067692839, 'Training Set Median Absolute Error': 0.544453678475115, 'Validation Set Median Absolute Error': 0.5598410457324946, 'Training Set MA Percentage Error': 9965622025664.709, 'Validation Set MA Percentage Error': 11795208194079.01, 'Training Set Max Error': 5.515332354433969, 'Validation Set Max Error': 5.160920242717915, 'Training Set Explained Variance Score': 0.974614723789885, 'Validation Set Explained Variance Score': 0.9762524679567092}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9857794264733604, 'Validation Set R^2 Score': 0.9863558188907356, 'Training Set MAE': 0.42794408748398355, 'Validation Set MAE': 0.42666273041605995, 'Training Set MSE': 0.42770969786183066, 'Validation Set MSE': 0.4268107048462333, 'Training Set Median Absolute Error': 0.3144143767568437, 'Validation Set Median Absolute Error': 0.32333721201866883, 'Training Set MA Percentage Error': 4698200322274.889, 'Validation Set MA Percentage Error': 2777869770276.463, 'Training Set Max Error': 7.641715752711443, 'Validation Set Max Error': 10.272866029344423, 'Training Set Explained Variance Score': 0.9857803161079401, 'Validation Set Explained Variance Score': 0.9863875811352997}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7497400599494222, 'Validation Set R^2 Score': 0.7415005541755246, 'Training Set MAE': 2.3760221953393432, 'Validation Set MAE': 2.471269316253931, 'Training Set MSE': 7.527024359842843, 'Validation Set MSE': 8.086255216869786, 'Training Set Median Absolute Error': 2.3986637202871175, 'Validation Set Median Absolute Error': 2.5141814148509187, 'Training Set MA Percentage Error': 49352836379722.21, 'Validation Set MA Percentage Error': 64199888269205.84, 'Training Set Max Error': 8.345044059090675, 'Validation Set Max Error': 7.572468221884599, 'Training Set Explained Variance Score': 0.7515817767273477, 'Validation Set Explained Variance Score': 0.743998378650168}
+=======================================================================================================
+
+
+=====================================JT50 Evaluations Results With All Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT50 Denormalized =======================
+
+Out of Bag Score:  0.9943861405702399
+{'Training Set R^2 Score': 0.9992224028895452, 'Validation Set R^2 Score': 0.9948083779930617, 'Training Set MAE': 0.10555644181139431, 'Validation Set MAE': 0.28398223787878796, 'Training Set MSE': 0.02338765202035094, 'Validation Set MSE': 0.16240182025816227, 'Training Set Median Absolute Error': 0.07399999999999274, 'Validation Set Median Absolute Error': 0.20523200000000008, 'Training Set MA Percentage Error': 1234633950759.4521, 'Validation Set MA Percentage Error': 2467955536709.6255, 'Training Set Max Error': 1.6299559999999915, 'Validation Set Max Error': 2.487000000000002, 'Training Set Explained Variance Score': 0.9992229812903536, 'Validation Set Explained Variance Score': 0.9948108111765618}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9969556809331193, 'Validation Set R^2 Score': 0.994850434498311, 'Training Set MAE': 0.221228819257677, 'Validation Set MAE': 0.2907267555788235, 'Training Set MSE': 0.09156345106977343, 'Validation Set MSE': 0.1610862289078936, 'Training Set Median Absolute Error': 0.16632646593408085, 'Validation Set Median Absolute Error': 0.22105929907167376, 'Training Set MA Percentage Error': 3127023071846.9165, 'Validation Set MA Percentage Error': 3987604302338.284, 'Training Set Max Error': 2.35239633069075, 'Validation Set Max Error': 2.6146595747699837, 'Training Set Explained Variance Score': 0.9969556809331193, 'Validation Set Explained Variance Score': 0.994853285133472}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9872948344157131, 'Validation Set R^2 Score': 0.9877135356745954, 'Training Set MAE': 0.4384997159024174, 'Validation Set MAE': 0.44438177296051695, 'Training Set MSE': 0.38213103874889864, 'Validation Set MSE': 0.38433926204874025, 'Training Set Median Absolute Error': 0.33774222947697474, 'Validation Set Median Absolute Error': 0.34684413883737, 'Training Set MA Percentage Error': 4729182608733.603, 'Validation Set MA Percentage Error': 3673433067197.184, 'Training Set Max Error': 5.1598723022762005, 'Validation Set Max Error': 7.056651259217867, 'Training Set Explained Variance Score': 0.9872948344157131, 'Validation Set Explained Variance Score': 0.987728293331087}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9776125646291343, 'Validation Set R^2 Score': 0.9787255897706391, 'Training Set MAE': 0.625524557940707, 'Validation Set MAE': 0.6255586058252511, 'Training Set MSE': 0.6733429703405894, 'Validation Set MSE': 0.6654958588182364, 'Training Set Median Absolute Error': 0.5152439917536578, 'Validation Set Median Absolute Error': 0.5347780530957275, 'Training Set MA Percentage Error': 9359868862424.764, 'Validation Set MA Percentage Error': 12714533386622.287, 'Training Set Max Error': 5.241556116341618, 'Validation Set Max Error': 5.501097236614788, 'Training Set Explained Variance Score': 0.9776125646291343, 'Validation Set Explained Variance Score': 0.9787367389857913}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9770610810745357, 'Validation Set R^2 Score': 0.9785554405412875, 'Training Set MAE': 0.6327990218064654, 'Validation Set MAE': 0.6293220556483058, 'Training Set MSE': 0.6899298445669516, 'Validation Set MSE': 0.6708183850971692, 'Training Set Median Absolute Error': 0.5023870056456674, 'Validation Set Median Absolute Error': 0.5144018709396729, 'Training Set MA Percentage Error': 9080606620473.232, 'Validation Set MA Percentage Error': 10395041218528.75, 'Training Set Max Error': 5.6370791259921145, 'Validation Set Max Error': 5.082701673667863, 'Training Set Explained Variance Score': 0.9770610810745357, 'Validation Set Explained Variance Score': 0.9785583318025596}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9855223752650398, 'Validation Set R^2 Score': 0.9860278657972524, 'Training Set MAE': 0.4328550178624961, 'Validation Set MAE': 0.4326630714371366, 'Training Set MSE': 0.4354409820072872, 'Validation Set MSE': 0.4370695756326259, 'Training Set Median Absolute Error': 0.3243649041189176, 'Validation Set Median Absolute Error': 0.33055405246559566, 'Training Set MA Percentage Error': 4955293827052.489, 'Validation Set MA Percentage Error': 6083756613328.055, 'Training Set Max Error': 7.4745135121330915, 'Validation Set Max Error': 10.199496663785942, 'Training Set Explained Variance Score': 0.985640463936874, 'Validation Set Explained Variance Score': 0.9860636599071388}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT50 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7440241384013597, 'Validation Set R^2 Score': 0.7351540610683256, 'Training Set MAE': 2.375490558121549, 'Validation Set MAE': 2.4763752730050705, 'Training Set MSE': 7.6989411305514155, 'Validation Set MSE': 8.284783158905542, 'Training Set Median Absolute Error': 2.293978247825441, 'Validation Set Median Absolute Error': 2.450592567818993, 'Training Set MA Percentage Error': 50363104823339.1, 'Validation Set MA Percentage Error': 64768900836913.43, 'Training Set Max Error': 9.58462420495798, 'Validation Set Max Error': 7.825991178068615, 'Training Set Explained Variance Score': 0.7453171710745787, 'Validation Set Explained Variance Score': 0.7373815121672502}
+=======================================================================================================
+
+=======================================================================================================================================================
+=====================================JT100 Evaluations Results With Important Features Considered =====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT100 Denormalized =======================
+
+Out of Bag Score:  0.9955449383053088
+{'Training Set R^2 Score': 0.9993930217005437, 'Validation Set R^2 Score': 0.9956210557762151, 'Training Set MAE': 0.07710446080181799, 'Validation Set MAE': 0.21091702121212116, 'Training Set MSE': 0.01168393621877019, 'Validation Set MSE': 0.08744519781102264, 'Training Set Median Absolute Error': 0.05300000000000882, 'Validation Set Median Absolute Error': 0.1409999999999998, 'Training Set MA Percentage Error': 0.014594521066646285, 'Validation Set MA Percentage Error': 0.03826032798652799, 'Training Set Max Error': 1.0080000000000222, 'Validation Set Max Error': 1.894000000000002, 'Training Set Explained Variance Score': 0.9993930868042062, 'Validation Set Explained Variance Score': 0.9956240199624367}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9970589708932703, 'Validation Set R^2 Score': 0.9948960733284842, 'Training Set MAE': 0.18105259899202944, 'Validation Set MAE': 0.2378961421540916, 'Training Set MSE': 0.05661289131976116, 'Validation Set MSE': 0.10192271346582578, 'Training Set Median Absolute Error': 0.14376672256448586, 'Validation Set Median Absolute Error': 0.18203668315550825, 'Training Set MA Percentage Error': 0.03656678454281847, 'Validation Set MA Percentage Error': 0.04601998122425178, 'Training Set Max Error': 2.6802287283827386, 'Validation Set Max Error': 2.3617398791139883, 'Training Set Explained Variance Score': 0.9970589708932703, 'Validation Set Explained Variance Score': 0.9949007268097889}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9780237628878048, 'Validation Set R^2 Score': 0.9797931980769421, 'Training Set MAE': 0.5035498836718347, 'Validation Set MAE': 0.49527880481633174, 'Training Set MSE': 0.4230282251893343, 'Validation Set MSE': 0.40351913634622266, 'Training Set Median Absolute Error': 0.4179858662939724, 'Validation Set Median Absolute Error': 0.40680601579063547, 'Training Set MA Percentage Error': 0.11035019644245579, 'Validation Set MA Percentage Error': 0.10747071058713553, 'Training Set Max Error': 4.2768115282042505, 'Validation Set Max Error': 4.0031715264617524, 'Training Set Explained Variance Score': 0.9780237628878048, 'Validation Set Explained Variance Score': 0.9797980013873013}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9616499385650135, 'Validation Set R^2 Score': 0.9657270063796465, 'Training Set MAE': 0.699293221956484, 'Validation Set MAE': 0.6714494583241513, 'Training Set MSE': 0.7382136596870631, 'Validation Set MSE': 0.6844135374981571, 'Training Set Median Absolute Error': 0.6126698470896361, 'Validation Set Median Absolute Error': 0.5982377678354052, 'Training Set MA Percentage Error': 0.13997209796669952, 'Validation Set MA Percentage Error': 0.13228033633551745, 'Training Set Max Error': 4.296880099220028, 'Validation Set Max Error': 2.7298719057235328, 'Training Set Explained Variance Score': 0.9616499385650135, 'Validation Set Explained Variance Score': 0.965748093421737}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9636922443982566, 'Validation Set R^2 Score': 0.9677433431899989, 'Training Set MAE': 0.6822459265475493, 'Validation Set MAE': 0.6555323283417349, 'Training Set MSE': 0.6989006049761979, 'Validation Set MSE': 0.6441483589016351, 'Training Set Median Absolute Error': 0.6017007246620079, 'Validation Set Median Absolute Error': 0.5846919301085305, 'Training Set MA Percentage Error': 0.13820022671252405, 'Validation Set MA Percentage Error': 0.13092218442978604, 'Training Set Max Error': 4.1738298642607425, 'Validation Set Max Error': 2.597563923196315, 'Training Set Explained Variance Score': 0.9636922443982566, 'Validation Set Explained Variance Score': 0.967758534722396}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.976345842063358, 'Validation Set R^2 Score': 0.9779267004288847, 'Training Set MAE': 0.5115616368125352, 'Validation Set MAE': 0.4935581588441402, 'Training Set MSE': 0.45532710623753914, 'Validation Set MSE': 0.44079210620083975, 'Training Set Median Absolute Error': 0.4231700102646787, 'Validation Set Median Absolute Error': 0.4079224218578963, 'Training Set MA Percentage Error': 0.11345070852100343, 'Validation Set MA Percentage Error': 0.10858905284094696, 'Training Set Max Error': 4.772590023014979, 'Validation Set Max Error': 6.2066790085134045, 'Training Set Explained Variance Score': 0.9765161367122749, 'Validation Set Explained Variance Score': 0.9781735576503318}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.7119135611671763, 'Validation Set R^2 Score': 0.713771450745935, 'Training Set MAE': 2.017868210287319, 'Validation Set MAE': 2.0548451861768333, 'Training Set MSE': 5.545475974726209, 'Validation Set MSE': 5.7158325910463486, 'Training Set Median Absolute Error': 1.954909880254215, 'Validation Set Median Absolute Error': 2.0209313305509933, 'Training Set MA Percentage Error': 0.4689302629094014, 'Validation Set MA Percentage Error': 0.48464929831865494, 'Training Set Max Error': 6.573218274781118, 'Validation Set Max Error': 6.343816814227421, 'Training Set Explained Variance Score': 0.716446665394123, 'Validation Set Explained Variance Score': 0.7198721006332535}
+=======================================================================================================
+
+
+=====================================JT100 Evaluations Results With All Features Considered ====================================================
+
+====================Random Forest The Evaluation Metrics Results For JT100 Denormalized =======================
+
+Out of Bag Score:  0.9957477993642601
+{'Training Set R^2 Score': 0.9994232099602178, 'Validation Set R^2 Score': 0.9958354308263428, 'Training Set MAE': 0.07507902515825375, 'Validation Set MAE': 0.20618656287878784, 'Training Set MSE': 0.011102831917504344, 'Validation Set MSE': 0.08316424155623706, 'Training Set Median Absolute Error': 0.05299999999999683, 'Validation Set Median Absolute Error': 0.13900000000000134, 'Training Set MA Percentage Error': 0.014173329740304413, 'Validation Set MA Percentage Error': 0.03769981169094431, 'Training Set Max Error': 1.0060000000000233, 'Validation Set Max Error': 1.8759999999999994, 'Training Set Explained Variance Score': 0.9994233879732879, 'Validation Set Explained Variance Score': 0.9958356929478378}
+==================================================================================================
+
+====================The Histogram-Based Gradient Boosting Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9975019260881302, 'Validation Set R^2 Score': 0.9953224642388107, 'Training Set MAE': 0.16568917784703047, 'Validation Set MAE': 0.22712497272017027, 'Training Set MSE': 0.04808629284144695, 'Validation Set MSE': 0.0934079127301143, 'Training Set Median Absolute Error': 0.1307084555887883, 'Validation Set Median Absolute Error': 0.18090539550116924, 'Training Set MA Percentage Error': 0.033808090964221486, 'Validation Set MA Percentage Error': 0.044625035344641024, 'Training Set Max Error': 2.8261158851267094, 'Validation Set Max Error': 2.2526374866643297, 'Training Set Explained Variance Score': 0.9975019260881302, 'Validation Set Explained Variance Score': 0.9953292174399647}
+====================================================================================================
+
+====================The Ridge Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9797081818795297, 'Validation Set R^2 Score': 0.981519281962391, 'Training Set MAE': 0.4811914482670265, 'Validation Set MAE': 0.4687685093450577, 'Training Set MSE': 0.39060425866099696, 'Validation Set MSE': 0.36905015499184396, 'Training Set Median Absolute Error': 0.3937374664096822, 'Validation Set Median Absolute Error': 0.38176015988469847, 'Training Set MA Percentage Error': 0.1040968365668204, 'Validation Set MA Percentage Error': 0.10026719083458388, 'Training Set Max Error': 4.06530431556709, 'Validation Set Max Error': 3.882461164952584, 'Training Set Explained Variance Score': 0.9797081818795297, 'Validation Set Explained Variance Score': 0.9815252469936842}
+====================================================================================================
+
+====================The Lasso Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.967347677842722, 'Validation Set R^2 Score': 0.9708737074774264, 'Training Set MAE': 0.6321751189541942, 'Validation Set MAE': 0.6063020472894286, 'Training Set MSE': 0.6285358962949368, 'Validation Set MSE': 0.5816366413858399, 'Training Set Median Absolute Error': 0.5342342937122555, 'Validation Set Median Absolute Error': 0.5132248399339783, 'Training Set MA Percentage Error': 0.12453453046726976, 'Validation Set MA Percentage Error': 0.11700851235758108, 'Training Set Max Error': 4.1983011799702545, 'Validation Set Max Error': 2.4671482179688944, 'Training Set Explained Variance Score': 0.967347677842722, 'Validation Set Explained Variance Score': 0.9708798662205406}
+====================================================================================================
+
+====================The ElasticNet Regressor Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.9677780061460557, 'Validation Set R^2 Score': 0.9712265625425269, 'Training Set MAE': 0.6216834084758315, 'Validation Set MAE': 0.6027471874378837, 'Training Set MSE': 0.6202523572396095, 'Validation Set MSE': 0.574590312547316, 'Training Set Median Absolute Error': 0.5109158700539762, 'Validation Set Median Absolute Error': 0.502310690362024, 'Training Set MA Percentage Error': 0.121584778947127, 'Validation Set MA Percentage Error': 0.11591302520045424, 'Training Set Max Error': 4.040937524698215, 'Validation Set Max Error': 2.3293267087443694, 'Training Set Explained Variance Score': 0.9677780061460557, 'Validation Set Explained Variance Score': 0.971229959450385}
+=========================================================================================================
+
+====================The SVR with linear model Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.97839811663652, 'Validation Set R^2 Score': 0.9798436282876118, 'Training Set MAE': 0.49370212632946703, 'Validation Set MAE': 0.48962742639780354, 'Training Set MSE': 0.4158221597877154, 'Validation Set MSE': 0.4025120717383382, 'Training Set Median Absolute Error': 0.4053630145950269, 'Validation Set Median Absolute Error': 0.40477986088953966, 'Training Set MA Percentage Error': 0.1118797524465842, 'Validation Set MA Percentage Error': 0.11074202317222667, 'Training Set Max Error': 4.178878456212956, 'Validation Set Max Error': 3.258623052343351, 'Training Set Explained Variance Score': 0.9783990258621545, 'Validation Set Explained Variance Score': 0.9798499386194705}
+==========================================================================================================
+
+====================The SVR with rfb model Evaluation Metrics Results For JT100 Denormalized =======================
+
+{'Training Set R^2 Score': 0.6970914589309329, 'Validation Set R^2 Score': 0.6985827400251514, 'Training Set MAE': 2.067143267072035, 'Validation Set MAE': 2.109848681459532, 'Training Set MSE': 5.830791771537182, 'Validation Set MSE': 6.019143102803753, 'Training Set Median Absolute Error': 1.9982887383459356, 'Validation Set Median Absolute Error': 2.0676910926534977, 'Training Set MA Percentage Error': 0.4801439784311306, 'Validation Set MA Percentage Error': 0.49641040434449407, 'Training Set Max Error': 6.874570605539042, 'Validation Set Max Error': 6.436660385594507, 'Training Set Explained Variance Score': 0.7016753952712333, 'Validation Set Explained Variance Score': 0.7050301550815272}
+=======================================================================================================
+
+
